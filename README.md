@@ -1,3 +1,4 @@
 # Youtube-clone
 YouTube interface clone using HTML\CSS
-![Screenshot (3)](https://github.com/Jayanth3119/Youtube-clone/assets/140073007/aa445071-94c6-4432-867b-5b063c92e1c4)
+
+![Screenshot (4)](https://github.com/Jayanth3119/Youtube-clone/assets/140073007/91c8a24f-3187-417c-a636-6c5abc7a3ecb)
